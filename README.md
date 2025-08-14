@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # print("Hello World")👋
 
-![wallpaper](image/github-header-banner.png)
+![wallpaper](image/github-header-banner%20(1).png)
 
 
 <p style="text-align: justify;">
