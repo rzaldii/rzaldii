@@ -1,4 +1,6 @@
-## Hi there 👋
+# Halloowww 👋
+
+![wallpaper](image/wallpaper%201.jpg)
 
 <!--
 **rzaldii/rzaldii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📝 I’m currently learning Web Programming
+[**My Instagram**](https://www.instagram.com/i.ballrr/)
+
+![coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI1b2I5ejIzMzVzYm0xamd0NDN5bnVqN3JxZ2xzc2g1bDE0NGw0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif)
