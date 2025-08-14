@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 ![wallpaper](image/github-header-banner.png)
 
-📝 I'm a student majoring in Information Technology, Faculty of Computer Science, University of Jember. Now, i have interest with software development and design. I also participate in organizations to help develop my skills in critical thinking, teamwork, problem solving, and public speaking.
+
+<p style="text-align: justify;">
+    I'm a student majoring in Information Technology, Faculty of Computer Science, University of Jember. Now, i have interest with software development and design. I also participate in organizations to help develop my skills in critical thinking, teamwork, problem solving, and public speaking.
+</p>
+<br>
 <br>
 
 <h3 align="center">Skills</h3>
