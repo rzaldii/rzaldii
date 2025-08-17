@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <p style="text-align: justify;">
-    I'm a student majoring in Information Technology, Faculty of Computer Science, University of Jember. Now, i have interest with software development and design. I also participate in organizations to help develop my skills in public speaking, teamwork, problem solving, and critical thinking.
+    I'm a student majoring in Information Technology, Faculty of Computer Science, University of Jember. Now, i have interest with software development and design. I also participate in organizations to help develop my skills in problem solving, teamwork, public speaking, and critical thinking.
 </p>
 <br>
 <br>
