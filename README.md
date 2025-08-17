@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <p style="text-align: justify;">
-    I'm a student majoring in Information Technology, Faculty of Computer Science, University of Jember. Now, i have interest with software development and design. I also participate in organizations to help develop my skills in critical thinking, teamwork, problem solving, and public speaking.
+    I'm a student majoring in Information Technology, Faculty of Computer Science, University of Jember. Now, i have interest with software development and design. I also participate in organizations to help develop my skills in public speaking, teamwork, problem solving, and critical thinking.
 </p>
 <br>
 <br>
@@ -30,17 +30,17 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="16" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="16" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="16" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="16" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="16" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="16" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
 
@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="16" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="16" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="16" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="16" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
