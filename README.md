@@ -77,6 +77,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="https://www.youtube.com/@i.ballrr"  />
 </div>
 
+
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i.ballrr/)
+
 ###
 
 <picture>
